@@ -3,6 +3,11 @@
 
 This project uses Meta’s Audiocraft library to generate music from text descriptions. It leverages the **MusicGen Small Model** to create unique audio pieces based on user input.
 
+
+![Screenshot (77)](https://github.com/user-attachments/assets/b375af8c-ecc6-4348-bd17-615a4b0e278e)
+
+
+
 ## 🚀 Features  
 - Generate music from text descriptions.  
 - Adjust the duration of generated music (1 to 20 seconds).  
