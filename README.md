@@ -21,7 +21,7 @@ This project uses Meta’s Audiocraft library to generate music from text descri
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/mmanikandan281/Text-to-music-Generator.git
    cd your-repo-name
    ```
 
