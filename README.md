@@ -30,6 +30,11 @@ This project uses Meta’s Audiocraft library to generate music from text descri
    pip install torch torchaudio audiocraft scipy streamlit ffmpeg
    ```
 
+3. Install the required packages(if running in vscode): 
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ---
 
 ## 📂 Setup (Optional but Recommended)  
